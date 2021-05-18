@@ -219,10 +219,10 @@ h4 {
   /* container für Footer */
   width: 95%;
   height: 5%;
-  bottom: 1.75%;
 
-   /* centering it */
+  /* centering it */
   position: absolute;
+  bottom: 1.75%;
   left: 2.5%;
  
 }
